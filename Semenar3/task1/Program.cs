@@ -7,7 +7,7 @@ namespace task1 {
             int nomberX = Convert.ToInt32(Console.ReadLine());      // Ввод чисел:
             int nomberY = Convert.ToInt32(Console.ReadLine());
 
-            if (nomberX == 0 || nomberY == 0) {                     // Проверка на корректность ввода:
+            if (nomberX == 0 || nomberY == 0) {                     // Проверка на корректность ввода: 
                 Console.WriteLine("We don't know");
             } else {
                 if (nomberX > 0) {                                  // Начало проверки на введение:
