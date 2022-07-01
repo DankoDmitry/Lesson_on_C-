@@ -2,7 +2,7 @@
 //5 -> 1, 4, 9, 16, 25.
 //2 -> 1,4
 
-namespace task1 {
+namespace task22 {
     class Program {
         static void Main(string[] args) {
             int nomberN = Convert.ToInt32(Console.ReadLine());          // Ввод длины последовательности:

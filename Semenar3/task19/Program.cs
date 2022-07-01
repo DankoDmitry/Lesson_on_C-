@@ -3,7 +3,7 @@
 //12821 -> да
 //23432 -> да
 
-namespace task1 {
+namespace task19 {
     class Program {
         static void Main(string[] args) {
             int nomberN = Convert.ToInt32(Console.ReadLine());                         // Ввод числа:
