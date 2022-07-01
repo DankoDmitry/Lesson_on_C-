@@ -3,7 +3,7 @@
 //782 -> 8
 //918 -> 1
 
-namespace task19 {
+namespace task10 {
     class Program {
         static void Main(string[] args) {
             int nomber = Convert.ToInt32(Console.ReadLine());
